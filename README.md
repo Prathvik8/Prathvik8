@@ -1,4 +1,4 @@
-# 💫 About Me:
+Hi,I'm Prathvik Shetty
 Student
 
 
