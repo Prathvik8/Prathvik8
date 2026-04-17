@@ -35,8 +35,12 @@
 
 ---
 
-## 📊 GitHub Stats
-![Prathvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathvik8&show_icons=true)
+## 📊 GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prathvik8&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Prathvik8)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathvik8&layout=compact)
 
 ---
 
